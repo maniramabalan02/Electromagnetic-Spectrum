@@ -91,60 +91,12 @@ and Geiger-Müller tubes.
 |Radio  |                  |               |               |                      |
 | Waves |> 1 m AM/FM       | Antenna Communication|Broadcasting,RadioNavigation,Wi-Fi|
 |Microwaves|1 mm – 1m|  Magnetron |Telecom /Cooking |Radarsystems,Satellite Communication|
-Infrared
-(IR)
-700 nm –
-1 mm
-Thermal
-Camera
-Security /
-Medical
-Night Vision,
-Heat
-Detection
-Visible
-Light
-400 – 700
-nm
-LED /
-Laser
-Optics /
-Energy
-Lighting,
-Fiber Optic
-Communicati
-on
-Ultraviole
-t (UV)
-10 – 400
-nm
-UV
-Lamp
-Healthcare /
-Electronics
-Sterilization,
-Lithography
-X-Rays 0.01 – 10
-nm
-X-ray
-Tube
-Medical /
-Industrial
-Diagnostics,
-Material
-Testing
-Gamma
-Rays
-< 0.01 nm Cobalt60
-Source
-Medical /
-Nuclear
-Cancer
-Therapy,
-Nuclear
-Analysis
-[Table 1: Real-Time Observations and Applications of EM
-Spectrum]
+|Infrared (IR)|700 nm –1 mm |Thermal Camera |Security/Medical|Night Vision,HeatDetection|
+|Visible Light|400 – 700nm |LED /Laser|Optics /Energy|Lighting,Fiber Optic Communication|
+|Ultraviolet (UV)|10 – 400nm|UV Lamp |Healthcare /Electronics|Sterilization,Lithography|
+|X-Rays |0.01 – 10nm|X-ray Tube|Medical /Industrial|Diagnostics,Material Testing|
+|Gamma Rays|< 0.01 nm |Cobalt 60 Source|Medical /Nuclear|Cancer Therapy,Nuclear Analysis|
+[Table 1: Real-Time Observations and Applications of EMSpectrum]
 > 
 # 8. Industrial Applications
 
