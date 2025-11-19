@@ -16,6 +16,7 @@ TABLE OF CONTENTS
 13. Environmental and Safety Considerations
 14. Challenges and Future Prospects
 15. Conclusion and References
+  
 1. Introduction
 The electromagnetic spectrum (EMS) encompasses the full range
 of all electromagnetic radiation. These waves differ in wavelength
@@ -26,7 +27,7 @@ from radio communications to advanced medical diagnostics.
 Electromagnetic waves are produced by accelerating electric
 charges and can travel through a vacuum without requiring any
 medium. They propagate at the speed of light (3 × 10⁸ m/s).
-[Figure 1: Electromagnetic Spectrum Overview]
+ [Figure 1: Electromagnetic Spectrum Overview]
 2. Objective
 The primary objective of this study is to analyze the different
 regions of the electromagnetic spectrum and their real-time
