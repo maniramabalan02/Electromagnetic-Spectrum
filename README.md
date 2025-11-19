@@ -95,7 +95,8 @@ and Geiger-Müller tubes.
 |Visible Light|400 – 700nm |LED /Laser|Optics /Energy|Lighting,Fiber Optic Communication|
 |Ultraviolet (UV)|10 – 400nm|UV Lamp |Healthcare /Electronics|Sterilization,Lithography|
 |X-Rays |0.01 – 10nm|X-ray Tube|Medical /Industrial|Diagnostics,Material Testing|
-|Gamma Rays|< 0.01 nm |Cobalt 60 Source|Medical /Nuclear|Cancer Therapy,Nuclear Analysis|
+|Gamma Rays|< 0.01 nm |Cobalt 60 Source|Medical /Nuclear|Cancer Therapy,Nuclear Analysis|4
+>
 [Table 1: Real-Time Observations and Applications of EMSpectrum]
 > 
 # 8. Industrial Applications
