@@ -88,29 +88,9 @@ and Geiger-Müller tubes.
 ### 7. Real-Time Observations and Applications
 |Region | Wavelength Range | Device/Example| Industry Used |Real-Time Application|
 |-------|------------------|---------------|---------------|---------------------|
-Radio
-Waves
-> 1 m AM/FM
-Antenna
-Communicati
-on
-Broadcasting,
-Radio
-Navigation,
-Wi-Fi
-Microwav
-es
-1 mm – 1
-m
-Magnetr
-on
-Telecom /
-Cooking
-Radar
-systems,
-Satellite
-Communicati
-on
+|Radio  |                  |               |               |                      |
+| Waves |> 1 m AM/FM       | Antenna Communication|Broadcasting,RadioNavigation,Wi-Fi|
+|Microwaves|1 mm – 1m|  Magnetron |Telecom /Cooking |Radarsystems,Satellite Communication|
 Infrared
 (IR)
 700 nm –
