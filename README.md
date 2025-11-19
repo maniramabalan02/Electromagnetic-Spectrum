@@ -85,9 +85,9 @@ range:
 - Visible: Observed through optical sensors and cameras.
 - X-rays and Gamma rays: Detected using scintillation counters
 and Geiger-Müller tubes.
-# 7. Real-Time Observations and
-Applications
-|Region | Wavelength Range | Device/Example Industry Used |Real-Time Application|
+### 7. Real-Time Observations and Applications
+|Region | Wavelength Range | Device/Example| Industry Used |Real-Time Application|
+|-------|------------------|---------------|---------------|---------------------|
 Radio
 Waves
 > 1 m AM/FM
