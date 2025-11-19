@@ -18,6 +18,7 @@ TABLE OF CONTENTS
 15. Conclusion and References
   
 #1. Introduction
+
 The electromagnetic spectrum (EMS) encompasses the full range
 of all electromagnetic radiation. These waves differ in wavelength
 and frequency but share the common property of transmitting
