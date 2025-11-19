@@ -87,14 +87,7 @@ range:
 and Geiger-Müller tubes.
 # 7. Real-Time Observations and
 Applications
-Region Waveleng
-th Range
-Device /
-Example
-Industry
-Used
-Real-Time
-Application
+|Region | Wavelength Range | Device/Example Industry Used |Real-Time Application|
 Radio
 Waves
 > 1 m AM/FM
